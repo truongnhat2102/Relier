@@ -1,0 +1,45 @@
+.info-item-program {
+    color: #565656;
+    letter-spacing: 0;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+.btn-apply-now {
+    color: #fff;
+    background-color: #1523b7;
+    border: 2px solid #1523b7;
+    transition: all 0.4s ease-in-out;
+    border-radius: 50px;
+    padding: 15px 35px;
+}
+
+.btn-apply-now:hover {
+    background-color: #fff;
+    color: #1523b7;
+    border: 2px solid #1523b7;
+}
+
+.btn-learn-more {
+    color: #1523b7;
+    background-color: #fff;
+    border: 2px solid #1523b7;
+    border-radius: 50px;
+    padding: 15px 35px;
+    transition: all 0.4s ease-in-out;
+}
+
+.btn-learn-more:hover {
+    background-color: #1523b7;
+    color: #fff;
+    border: 2px solid #1523b7;
+}
+
+.btn-apply-now .item-link {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.btn-apply-now .item-link:hover {
+    color: #000 !important;
+}

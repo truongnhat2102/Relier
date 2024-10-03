@@ -1,0 +1,13 @@
+.my-button {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 300;
+    padding-right: 3rem !important;
+    padding-left: 3rem !important;
+    border-radius: 50rem !important;
+    padding-top: .5rem !important;
+    padding-bottom: .5rem !important;
+    color: #fff;
+    background-color: #1523b7;
+    border-color: #1523b7;
+    border: none;
+}

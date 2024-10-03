@@ -1,0 +1,20 @@
+.text-heading-title {
+    font-family: mont-Bold, sans-serif;
+    font-size: 44px;
+    letter-spacing: 0;
+    text-align: center;
+    overflow: hidden;
+    line-height: 1.5;
+    color: #1523b7 !important;
+}
+
+.main-title {
+    text-align: center;
+    width: 67%;
+    margin: 30px auto;
+    font-family: rbt-Regular, sans-serif;
+    font-size: 16px;
+    color: #000;
+    letter-spacing: 0;
+    line-height: 29px;
+}

@@ -1,0 +1,27 @@
+.investor-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.investor-item {
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.investor-item:hover {
+    transform: rotate(10deg);
+}
+
+@media (min-width: 992px) {
+    .investor-item {
+        flex: 0 0 calc(20% - 1rem);
+    }
+}
+
+@media (max-width: 991px) {
+    .investor-item {
+        flex: 0 0 calc(30% - 1rem);
+    }
+}

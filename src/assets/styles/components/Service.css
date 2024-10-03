@@ -1,0 +1,26 @@
+.bg-secondary {
+    background-color: #1523b7 !important;
+}
+
+.service-heading {
+    position: relative;
+}
+
+.line {
+    width: 100px;
+    padding: 2px;
+    background-color: #1523b7 !important;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 40px;
+}
+
+.service-footer {
+    width: 720px;
+}
+
+.filter-btn.active {
+    color: #f6f9fe;
+    background-color: #254cd0;
+    border-color: #254cd0;
+}

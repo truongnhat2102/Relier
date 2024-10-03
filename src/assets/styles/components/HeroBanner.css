@@ -1,0 +1,29 @@
+#index_banner {
+    background-image: url('../../images/banner/banner1.jpg');
+    object-fit: cover;
+    background-size: cover;
+}
+
+.carousel-control i {
+    color: #1c17ad !important;
+    font-size: 100px;
+}
+
+.banner-button a {
+    color: #254cd0;
+    border-color: #254cd0;
+}
+
+.text-secondary {
+    color: #1523b7 !important;
+}
+
+a {
+    text-decoration: none;
+    color: #6c757d !important;
+}
+
+#index_banner .carousel-indicators li,
+#index_banner .carousel-indicators.active {
+    background-color: #1c17ad !important;
+}

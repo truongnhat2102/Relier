@@ -1,0 +1,27 @@
+.hover-effect {
+    transition: box-shadow 0.3s ease;
+}
+
+.hover-effect:hover {
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+}
+
+.service-work-content span {
+    color: #000;
+}
+
+.btn {
+    border-radius: 20px;
+    padding: 10px 15px;
+    transition: 0.5s all ease-in;
+    background-color: #fff;
+    color: #000;
+}
+
+.btn:hover {
+    border: 1px solid #000;
+    padding: 15px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
